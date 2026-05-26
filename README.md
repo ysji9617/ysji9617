@@ -64,7 +64,6 @@ React Native 앱, 관리자 페이지, 백엔드 API, AI 기능, AWS 인프라, 
 - **프로젝트 기간**: 2026.01 ~ 진행 중
 - **역할**: 1인 풀스택 개발
 - **상세**: React Native 앱, 병원 관리자, 쇼핑몰 관리자, 초음파 전용 앱, NestJS API 서버, FastAPI AI 엔진, AWS 배포 환경을 개발했습니다.  
-  [상세 README 보기](링크를_넣어주세요)
 
 ---
 
@@ -78,7 +77,6 @@ React Native 앱, 관리자 페이지, 백엔드 API, AI 기능, AWS 인프라, 
 - **프로젝트 기간**: 2025.09 ~ 2025.12
 - **역할**: 백엔드 API 개발
 - **상세**: 전자정부프레임워크 기반 API, 용어 관리, 엑셀 업로드 검증, OpenAPI 승인 워크플로우, 통합 검색, CMS 관리 기능을 개발했습니다.  
-  [상세 README 보기](링크를_넣어주세요)
 
 ---
 
@@ -92,21 +90,18 @@ React Native 앱, 관리자 페이지, 백엔드 API, AI 기능, AWS 인프라, 
 - **프로젝트 기간**: 2025.06 ~ 2025.08
 - **역할**: AI 모델 서버 및 RAG 파이프라인 개발
 - **상세**: LLM 기반 챗봇, 데이터 수집·정제, RAG 구조, 벡터 검색, FastAPI 비동기 서버를 개발했습니다.  
-  [상세 README 보기](https://github.com/JiYeSung/ai_analysis/blob/main/router/ai_analytics/ai_analytics.py)
 
 ### 키워드 수집 및 콘텐츠 생성 자동화
 
 - **프로젝트 기간**: 2025.03 ~ 2025.05
 - **역할**: 데이터 수집·콘텐츠 생성 자동화 개발
 - **상세**: 외부 데이터 수집, LLM 기반 제목·요약·키워드 추출, HTML 콘텐츠 자동 생성 API를 개발했습니다.  
-  [상세 README 보기](https://github.com/JiYeSung/gongam-data)
 
 ### 데이터 수집 및 파싱 자동화 시스템
 
 - **프로젝트 기간**: 2025.02 ~ 2025.04
 - **역할**: 크롤링·파싱·모니터링 자동화 개발
 - **상세**: 웹 데이터 수집·파싱, DB 저장, 내부 대시보드 연동, Slack·이메일 알림, AWS 배포 구조를 개발했습니다.  
-  [상세 README 보기](https://github.com/yecastle9617-ui/test/tree/main/myproject)
 
 ---
 
@@ -120,28 +115,24 @@ React Native 앱, 관리자 페이지, 백엔드 API, AI 기능, AWS 인프라, 
 - **프로젝트 기간**: 2024.10 ~ 2025.01
 - **역할**: API 개발 및 운영 자동화
 - **상세**: Flask/FastAPI API, MariaDB 마이그레이션, 리소스 모니터링, 데이터 시각화 연동, 운영 자동화 스크립트를 개발했습니다.  
-  [상세 README 보기](https://github.com/JiYeSung/python_project)
 
 ### AIOCR 성능개선 및 테스트 자동화 프로젝트
 
 - **프로젝트 기간**: 2024.06 ~ 2024.09
 - **역할**: OCR 테스트 자동화 및 후처리 개발
 - **상세**: OCR 테스트 API, 결과 데이터 JSON 정형화, 후처리 로직, JavaScript 플러그인을 개발했습니다.  
-  [상세 README 보기](링크를_넣어주세요)
 
 ### 차세대 AIOCR 도입 프로젝트
 
 - **프로젝트 기간**: 2024.01 ~ 2024.05
 - **역할**: OCR 플러그인 및 데이터 정형화 개발
 - **상세**: OCR 엔진 연동 플러그인, 데이터 포맷 표준화, JSON 정형화, 후처리 로직을 개발했습니다.  
-  [상세 README 보기](링크를_넣어주세요)
 
 ### AIOCR 고도화 프로젝트
 
 - **프로젝트 기간**: 2023.06 ~ 2024.01
 - **역할**: OCR 문서 지원 및 후처리 고도화
 - **상세**: 추가 문서 지원 기능, 고객사 요구사항 기반 데이터 포맷 설계, OCR 결과 후처리 기능을 개발했습니다.  
-  [상세 README 보기](링크를_넣어주세요)
 
 ---
 
@@ -155,7 +146,6 @@ React Native 앱, 관리자 페이지, 백엔드 API, AI 기능, AWS 인프라, 
 - **프로젝트 기간**: 2023.01 ~ 2023.04
 - **역할**: 결재양식 및 스케줄표 개발
 - **상세**: JavaScript 기반 결재양식, 수식 계산 자동화, 출근 스케줄표 화면, 기존 솔루션 API 연동 기능을 개발했습니다.  
-  [상세 README 보기](링크를_넣어주세요)
 
 ---
 
@@ -171,7 +161,7 @@ React Native 앱, 관리자 페이지, 백엔드 API, AI 기능, AWS 인프라, 
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysji9617&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysji9617&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysji9617&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysji9617&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
