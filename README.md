@@ -30,7 +30,7 @@ OpenAI API, Gemini API, Replicate, Selenium, BeautifulSoup, RAG, LLM Automation
 
 # 📌 Projects
 
-## MomNote v2 — 병원 연동 산모·육아 서비스 플랫폼
+## MomNote — 병원 연동 산모·육아 서비스 플랫폼
 
 > 2026.01 ~ 진행 중 | 1인 풀스택 개발  
 > 모바일 앱, 병원 관리자, 쇼핑몰 관리자, 초음파 전용 앱, AI 이미지 생성 엔진을 포함한 모노레포 서비스
