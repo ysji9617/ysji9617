@@ -68,7 +68,7 @@ React Native 앱, 관리자 페이지, 백엔드 API, AI 기능, AWS 인프라, 
 ### 주요 구현
 
 - React Native 기반 산모·육아 회원용 모바일 앱 개발
-- 병원 태블릿 전용 초음파 앱 개발
+- 병원 태블릿 전용 초음파 앱 고도화
 - React 기반 병원 관리자 및 쇼핑몰 관리자 페이지 개발
 - NestJS 기반 Admin / Mobile / Ultrasound / ShopAdmin API 서버 분리 운영
 - FastAPI 기반 초음파 이미지 → 아기 얼굴 생성 AI 엔진 개발
